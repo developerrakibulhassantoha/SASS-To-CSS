@@ -1,0 +1,13 @@
+$default-font-size:14px;
+.math1{
+    font-size: $default-font-size+10;
+}
+.math2{
+    font-size: $default-font-size-4;
+}
+.math3{
+    font-size: $default-font-size*10;
+}
+.math4{
+    font-size: $default-font-size/10;
+}
