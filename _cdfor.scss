@@ -1,0 +1,7 @@
+$default-font-size:14px;
+@for $i from 1 through 40{
+    .math-#{$i} {
+        font-size:$default-font-size*$i;
+    }
+}
+
